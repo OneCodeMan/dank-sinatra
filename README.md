@@ -25,7 +25,7 @@ _EACH PAIR SEPARATED BY A COMMA._
 - Then on Anki, import the generated CSV file: \
 ![Import button](https://imgur.com/ldFOSGJ.png) \
 ![Look for generated file](https://imgur.com/VxH1e6P.png) \
-![Proper settings](https://imgur.com/W4xvC9s.png) 
+![Proper settings](https://imgur.com/W4xvC9s.png) \
 _Make sure that the field separator is set to a comma!_
 - After clicking 'import', you would have successfully made these cards and added them into your Anki deck.
 
