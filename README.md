@@ -19,7 +19,7 @@ _Copy and paste the German lines (right-hand side of DeepL) and place below divi
 _NOTE: FOR NOW, THE DIVIDER MUST BE EXACTLY THIS: --------_
 - The generated CSV file looks something like: \
 ![CSV file format](https://imgur.com/ALWnUlc.png) \
-_English sentences on first column,_
+_English sentences on first column,_ \
 _German translated sentences on second column,_ \
 _EACH PAIR SEPARATED BY A COMMA._
 - Then on Anki, import the generated CSV file: \
