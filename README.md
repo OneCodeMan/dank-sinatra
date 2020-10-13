@@ -1,6 +1,6 @@
 # dank-sinatra
 Language learning tool. \
-Makes a CSV file out of English/German sentence pairs, so that they are easily importable into Anki deck. 
+Makes a CSV file out of English/German sentence pairs, so that they are easily importable into Anki. 
 
 ## Context:
 - When I read books in my L2 (German), I write down sentences I find interesting and would like to remember.
