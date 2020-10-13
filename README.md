@@ -10,7 +10,7 @@ Makes a CSV file out of English/German sentence pairs, so that they are easily i
 With a lot of sentences, this can get time-consuming.
 ![DeepL Example](https://imgur.com/xV20CKF.png) 
 ![Anki](https://imgur.com/RJzEKET.png)
-- Anki supports importing CSV data. 
+- *FEAR NOT. THERE IS A BETTER WAY!* Anki supports importing CSV data. 
 - This program lets you input a text file, and generates a CSV file of German/English sentence pairs.
 - The format of the text file looks like this: \
 ![Text file format](https://imgur.com/Rc7fSL5.png) \
