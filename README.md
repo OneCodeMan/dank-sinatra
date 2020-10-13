@@ -12,7 +12,7 @@ With a lot of sentences, this can get time-consuming.
 ![Anki](https://imgur.com/RJzEKET.png)
 - **FEAR NOT. THERE IS A BETTER WAY! Anki supports importing CSV data.**
 - This program will prompt you to input the name of your desired text file, and will generate a CSV file of German/English sentence pairs. \
-Say you named your text file, `batch.txt` \
+Say you named your text file: `batch.txt` \
 ![Running program and inputting](https://imgur.com/jMGmXuL.png)
 - The format of the text file THAT YOU WOULD INPUT (i.e. place text file on same directory as program) should look like this: \
 ![Text file format](https://imgur.com/Rc7fSL5.png) \
