@@ -20,7 +20,7 @@ _NOTE: FOR NOW, THE DIVIDER MUST BE EXACTLY THIS: --------_
 - The generated CSV file looks something like: \
 ![CSV file format](https://imgur.com/ALWnUlc.png) \
 _English sentences on first column,_
-_ German translated sentences on second column,_ \
+_German translated sentences on second column,_ \
 _EACH PAIR SEPARATED BY A COMMA._
 - Then on Anki, import the generated CSV file: \
 ![Import button](https://imgur.com/ldFOSGJ.png) \
