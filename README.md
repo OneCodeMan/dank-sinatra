@@ -12,7 +12,8 @@ With a lot of sentences, this can get time-consuming.
 ![Anki](https://imgur.com/RJzEKET.png)
 - **FEAR NOT. THERE IS A BETTER WAY! Anki supports importing CSV data.**
 - This program will prompt you input the name of your desired text file, and generates a CSV file of German/English sentence pairs. \
-Sample input: `batch.txt`
+Sample input: `batch.txt` \
+![Running program and inputting](https://imgur.com/jMGmXuL.png)
 - The format of the text file THAT YOU WOULD INPUT (i.e. place text file on same directory as program) should look like this: \
 ![Text file format](https://imgur.com/Rc7fSL5.png) \
 _Copy and paste the English lines (left-hand side of DeepL) and place above divider._ \
