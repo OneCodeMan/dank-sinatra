@@ -30,7 +30,7 @@ _Make sure that the field separator is set to a comma!_
 - After clicking 'import', you would have successfully made these cards and added them into your Anki deck.
 
 ## Notes:
-- This doesn't necessarily have to be in German, it can work for other languages that DeepL supports. 
+- This doesn't necessarily have to be in German, DeepL doesn't necessarily need to be used. **It just has to follow the text file format.**
 - German doesn't necessarily have to be at the back, English doesn't necessarily have to be at the front. 
 Simply change the order of the text file input. (i.e. English sentences above divider, German sentences below.. or manipulate Anki fields when importing).
 - This only supports the very basic front/back plain text-only format. No additional fields, styling texts, audio files, images, etc. If
