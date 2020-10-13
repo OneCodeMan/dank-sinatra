@@ -15,8 +15,8 @@ With a lot of sentences, this can get time-consuming.
 - The format of the text file THAT YOU WOULD INPUT (i.e. place text file on same directory as program) should look like this: \
 ![Text file format](https://imgur.com/Rc7fSL5.png) \
 _Copy and paste the English lines (left-hand side of DeepL) and place above divider.
-copy and paste the German lines (right-hand side of DeepL) and place below divider._ \
-_NOTE: AT LEAST FOR NOW, THE DIVIDER MUST BE EXACTLY THIS: --------_
+Copy and paste the German lines (right-hand side of DeepL) and place below divider._ \
+_NOTE: FOR NOW, THE DIVIDER MUST BE EXACTLY THIS: --------_
 - The generated CSV file looks something like: \
 ![CSV file format](https://imgur.com/ALWnUlc.png) \
 _English sentences on first column, German translated sentences on second column, EACH PAIR SEPARATED BY A COMMA._
