@@ -19,7 +19,9 @@ _Copy and paste the German lines (right-hand side of DeepL) and place below divi
 _NOTE: FOR NOW, THE DIVIDER MUST BE EXACTLY THIS: --------_
 - The generated CSV file looks something like: \
 ![CSV file format](https://imgur.com/ALWnUlc.png) \
-_English sentences on first column, German translated sentences on second column, EACH PAIR SEPARATED BY A COMMA._
+_English sentences on first column,_
+_ German translated sentences on second column,_ \
+_EACH PAIR SEPARATED BY A COMMA._
 - Then on Anki, import the generated CSV file: \
 ![Import button](https://imgur.com/ldFOSGJ.png) \
 ![Look for generated file](https://imgur.com/VxH1e6P.png) \
@@ -31,3 +33,5 @@ _Make sure that the field separator is set to a comma!_
 - This doesn't necessarily have to be in German, it can work for other languages that DeepL supports. 
 - German doesn't necessarily have to be at the back, English doesn't necessarily have to be at the front. 
 Simply change the order of the text file input. (i.e. English sentences above divider, German sentences below.. or manipulate Anki fields when importing).
+- This only supports the very basic front/back plain text-only format. No additional fields, styling texts, audio files, images, etc. If
+you're interested in having that functionality for this, feel free to submit a PR.
