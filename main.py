@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 '''
 Import English/German translations into Anki.
 Translations come from deepl.com/translator
@@ -34,9 +35,16 @@ Settings:
 '''
 
 import csv
+import sys 
+
+# Ask user for name of text file
+if len(sys.argv) > 1:
+  filename = sys.argv[1]
+else:
+  filename = "batch.txt"
 
 # Removes empty lines
-file1 = open('batch.txt', 'r').read().splitlines()
+file1 = open(filename, 'r').read().splitlines()
 lines = [line for line in file1 if line]
 
 # Separate the English and German lines
